@@ -1,7 +1,7 @@
 {
   "name": "konect-api-vue",
   "private": false,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "files": [
     "dist"
@@ -27,7 +27,6 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.3.0",
-    "konect-api-types": "^1.0.0",
     "uuidv4": "^6.2.13",
     "vue": "^3.2.45"
   },
